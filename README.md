@@ -3,4 +3,4 @@ Monster Killer is based on JavaScript, HTML and CSS. It is a game that has two h
 
 # Authors
 - [Abhinandan Sharma](https://github.com/abhi16de)
--  Academind Udemy
+- [Academind](https://academind.com/)
